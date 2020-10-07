@@ -10,7 +10,7 @@ function ninjaBabySelector() {
   
 }
 
-function paragraphSelector() {
+function divSelector() {
   
 }
 
