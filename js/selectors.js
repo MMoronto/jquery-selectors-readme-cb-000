@@ -6,7 +6,7 @@ function lastImageSelector() {
   
 }
 
-function paragraphSelector() {
+function ninjaBabySelector() {
   
 }
 
